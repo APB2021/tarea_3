@@ -1,0 +1,11 @@
+Texto 2: Características avanzadas y ventajas de Java
+Java se ha mantenido como uno de los lenguajes más populares debido a su enfoque en la portabilidad y rendimiento.
+La clave de esta independencia es la JVM, que permite que los programas escritos en Java se ejecuten en cualquier sistema que tenga una JVM compatible.
+Este enfoque no solo garantiza la portabilidad, sino también la eficiencia, ya que la JVM optimiza la ejecución del bytecode.
+La robustez de Java también se debe a su fuerte manejo de excepciones, que ayuda a escribir código más seguro.
+Grandes empresas confían en Java para construir sistemas escalables y de alto rendimiento.
+Otra ventaja es la comunidad activa y las miles de bibliotecas disponibles, lo que hace que el desarrollo en Java sea más eficiente.
+La programación orientada a objetos de Java facilita la reutilización de código y la creación de soluciones escalables.
+Los desarrolladores pueden confiar en que los errores son detectados en una fase temprana gracias al sistema de tipos y las herramientas de desarrollo.
+Por último, el manejo automático de la memoria por parte del recolector de basura evita fugas de memoria y problemas de rendimiento.
+En conclusión, Java combina portabilidad, seguridad y un ecosistema maduro que lo hace adecuado para cualquier tipo de proyecto.

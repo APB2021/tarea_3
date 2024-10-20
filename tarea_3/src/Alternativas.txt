@@ -1,0 +1,22 @@
+Texto 1: Introducción a Java como lenguaje de programación
+Texto 2: Características avanzadas y ventajas de Java
+Java es un lenguaje de programación orientado a objetos creado por Sun Microsystems en 1995.
+Java se ha mantenido como uno de los lenguajes más populares debido a su enfoque en la portabilidad y rendimiento.
+Una de las principales características de Java es su independencia de plataforma, gracias a la Máquina Virtual de Java (JVM).
+La clave de esta independencia es la JVM, que permite que los programas escritos en Java se ejecuten en cualquier sistema que tenga una JVM compatible.
+El código Java se compila en bytecode, que luego es interpretado por la JVM, lo que permite su ejecución en diferentes sistemas operativos.
+Este enfoque no solo garantiza la portabilidad, sino también la eficiencia, ya que la JVM optimiza la ejecución del bytecode.
+Además de ser multiplataforma, Java es conocido por su robustez y seguridad.
+La robustez de Java también se debe a su fuerte manejo de excepciones, que ayuda a escribir código más seguro.
+Es un lenguaje ampliamente utilizado en el desarrollo de aplicaciones empresariales y móviles.
+Grandes empresas confían en Java para construir sistemas escalables y de alto rendimiento.
+Java también ofrece una extensa biblioteca estándar, lo que facilita el desarrollo sin depender de terceros.
+Otra ventaja es la comunidad activa y las miles de bibliotecas disponibles, lo que hace que el desarrollo en Java sea más eficiente.
+En Java, todo gira en torno a la creación y manipulación de objetos, lo que permite organizar mejor el código.
+La programación orientada a objetos de Java facilita la reutilización de código y la creación de soluciones escalables.
+Gracias a su estructura clara y fuerte tipado, los errores en tiempo de compilación son más fáciles de detectar.
+Los desarrolladores pueden confiar en que los errores son detectados en una fase temprana gracias al sistema de tipos y las herramientas de desarrollo.
+Además, Java tiene un recolector de basura que gestiona automáticamente la memoria, reduciendo la carga del programador.
+Por último, el manejo automático de la memoria por parte del recolector de basura evita fugas de memoria y problemas de rendimiento.
+En resumen, Java es un lenguaje versátil que sigue siendo relevante en múltiples campos del desarrollo.
+En conclusión, Java combina portabilidad, seguridad y un ecosistema maduro que lo hace adecuado para cualquier tipo de proyecto.

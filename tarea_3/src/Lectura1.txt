@@ -1,0 +1,11 @@
+Texto 1: Introducción a Java como lenguaje de programación
+Java es un lenguaje de programación orientado a objetos creado por Sun Microsystems en 1995.
+Una de las principales características de Java es su independencia de plataforma, gracias a la Máquina Virtual de Java (JVM).
+El código Java se compila en bytecode, que luego es interpretado por la JVM, lo que permite su ejecución en diferentes sistemas operativos.
+Además de ser multiplataforma, Java es conocido por su robustez y seguridad.
+Es un lenguaje ampliamente utilizado en el desarrollo de aplicaciones empresariales y móviles.
+Java también ofrece una extensa biblioteca estándar, lo que facilita el desarrollo sin depender de terceros.
+En Java, todo gira en torno a la creación y manipulación de objetos, lo que permite organizar mejor el código.
+Gracias a su estructura clara y fuerte tipado, los errores en tiempo de compilación son más fáciles de detectar.
+Además, Java tiene un recolector de basura que gestiona automáticamente la memoria, reduciendo la carga del programador.
+En resumen, Java es un lenguaje versátil que sigue siendo relevante en múltiples campos del desarrollo.
